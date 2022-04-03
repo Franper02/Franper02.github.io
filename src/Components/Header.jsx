@@ -28,6 +28,7 @@ export default function Header(){
                     </svg>
                 Contact me
             </a>
+            <span className="header-email">or send an email to: <b>francoperdomo6@gmail.com</b></span>
                 </Fader>
 
         </div>

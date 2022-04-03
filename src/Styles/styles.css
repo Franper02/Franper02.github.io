@@ -187,9 +187,17 @@ a{
     font-size: 70px;
     padding-left: 4px;
 }
-    .Typist .Cursor--blinking {
-      opacity: 1;
-      animation: blink 1s linear infinite; }
+.Typist .Cursor--blinking {
+    opacity: 1;
+    animation: blink 1s linear infinite; 
+}
+.header-email{
+    padding-top: 1rem;
+    font-size: .6em;
+    color: var(--grey);
+    opacity: 50%;
+
+}
 
 /* end of Header styles */
 
