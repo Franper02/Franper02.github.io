@@ -24,6 +24,38 @@ export default function Software(){
             </Fader>
             <Fader delay="200ms">
             <ProjectCard
+                title="Let's Trade Cards"
+                text="This is a project that i worked on for a client in upwork, it's a website where you can buy and sell sport cards to anyone in the US, i updated some parts of the Front-end in the website according to the client's request."
+                stack="HTML, CSS, Javascript, PHP"
+                github=""
+                site="https://letstradecards.com/" />
+            </Fader>
+            <Fader delay="300ms">
+            <ProjectCard
+                title="Crypto Wallets"
+                text="This is a project that i worked on for a client in upwork, it's a website that displays 9 different crypto wallets with a very specific style and with a search bar to filter those wallets."
+                stack="HTML, CSS, Javascript"
+                github="https://github.com/Franper02/Upwork-wallets"
+                site="https://crypto-wallets.000webhostapp.com/" />
+            </Fader>
+            <Fader delay="400ms">
+            <ProjectCard
+                title="Recorcholis"
+                text="This is a project that i worked on for a Gama Development as a Freelancer, Recorcholis is a big business of mexico, they offer entertainment services for kids and adolescents, i worked in a couple front-end tasks, more specifically in: https://www.recorcholis.com.mx/store/promo , https://www.recorcholis.com.mx/store/packages and https://www.recorcholis.com.mx/Store/ShoppingCart i completed my tasks sucessfully and got the opportunity to work with the Gama Development team."
+                stack="HTML, CSS, Javascript, .Net"
+                github=""
+                site="https://www.recorcholis.com.mx/" />
+            </Fader>
+            <Fader delay="500ms">
+            <ProjectCard
+                title="Audiv.io"
+                text="This is a project that i worked on for a client on Upwork, it's a tool to automatically get twitch stream highlights and statistics, i worked in a couple of front-end tags for the app page, all the clients requests were completed sucessfuly and i got hired again to keep making changes on his page."
+                stack="Python(Django), HTML, CSS, Javascript"
+                github=""
+                site="https://app.audiv.io/" />
+            </Fader>
+            <Fader delay="600ms">
+            <ProjectCard
                 title="Crypto-grid trading simulator"
                 text="This is a project that i worked on for a client on Upwork, the client provided an already functional website,
                 i was in charge of all the mobile responsive design, coding and deployment of the webapp.
@@ -32,7 +64,7 @@ export default function Software(){
                 github="https://github.com/iamcappy/Grid-Trading-Simulator-Calculator"
                 site="https://grid-trading-simulator.herokuapp.com/" />
             </Fader>
-            <Fader delay="300ms">
+            <Fader delay="700ms">
             <ProjectCard
                 title="Trabajos-Webapp"
                 text="This was one of my first web-app projects, it was meant to solve an issue in my highschool virtual platform
@@ -44,7 +76,7 @@ export default function Software(){
                 github="https://github.com/Franper02/Trabajos-Webapp"
                 site="" />
             </Fader>
-            <Fader delay="400ms">
+            <Fader delay="800ms">
             <ProjectCard
                 title="JuliApp"
                 text="This is an Android app that i made for my girlfriend, when you open the app it will launch a qr scanner that only works with the qr codes that i created, when the qrcode is scanned it will fetch my API for an image and a text, when the information is retreived it will show a card that has a photo of me and my girlfriend and when you swipe the image, it will display a text of my choice."
@@ -52,7 +84,6 @@ export default function Software(){
                 github="https://github.com/Franper02/JuliApp"
                 site="" />
             </Fader>
-
             </div>
 
 
